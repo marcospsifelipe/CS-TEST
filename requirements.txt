@@ -1,1 +1,4 @@
-flask
+# Dependências com versões vulneráveis para teste de SCA (Software Composition Analysis)
+
+flask==0.12
+requests==2.19.0
